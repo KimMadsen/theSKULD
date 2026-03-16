@@ -100,30 +100,6 @@ theSKULD addresses all of these problems.
 
 ---
 
-## Building from Source
-
-1. Clone or download the repository
-2. Open `theSKULD.dproj` in Delphi
-3. Place `logo.png` in the project directory (used by the splash screen at runtime)
-4. Build for Win32 or Win64
-5. The `theSKULD.ico` file is automatically used as the application icon
-
-**Project structure:**
-
-| File | Purpose |
-|------|---------|
-| `theSKULD.dpr` | Main program file |
-| `theSKULD.dproj` | Delphi project file |
-| `theSKULD.ico` | Application icon (multiple sizes) |
-| `logo.png` | Splash screen image (place next to exe) |
-| `uMainForm.pas/dfm` | Main application form |
-| `uDprojParser.pas` | XML parser with composite PropertyGroup merging |
-| `uDuplicateResolver.pas/dfm` | Duplicate resolution dialog |
-| `uKeyHelp.pas` | Key documentation database |
-| `uTemplateData.pas` | Platform template definitions |
-| `uSplash.pas/dfm` | Splash screen |
-
----
 
 ## Getting Started
 
