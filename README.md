@@ -17,7 +17,6 @@ Named after **Skuld**, the youngest of the three Norns in Norse mythology. Toget
 - [The Problem](#the-problem)
 - [Features Overview](#features-overview)
 - [Requirements](#requirements)
-- [Building from Source](#building-from-source)
 - [Getting Started](#getting-started)
 - [The Tree View](#the-tree-view)
 - [Version Info Tab](#version-info-tab)
